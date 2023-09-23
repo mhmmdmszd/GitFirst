@@ -1,0 +1,1 @@
+say mamadmkdir mamad
